@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.tabSize": 2,
+    "editor.rulers": [100],
+    "html.format.wrapLineLength": [80],
+    "window.zoomLevel": 0,
+    "files.associations": {
+      "*.js": "javascript"
+    },
+    "editor.fontSize": 14,
+    "javascript.validate.enable": false
+  }
