@@ -12,7 +12,7 @@ class ListFilter extends Component {
     return (
       <div>
         <footer className="form-footer">
-          <label count={this.props.list.length} />
+          <label count={this.props.list.length}>{this.props.list.length}</label>
           <span name={"All"}
             onClick={() => { this.props.updateFilter(null)}} 
           >All</span>
